@@ -1,0 +1,14 @@
+C:\Флешка\Флешка\Учеба Олег\VSC\Task1\task1\bin\Debug\net7.0\task1.exe
+C:\Флешка\Флешка\Учеба Олег\VSC\Task1\task1\bin\Debug\net7.0\task1.deps.json
+C:\Флешка\Флешка\Учеба Олег\VSC\Task1\task1\bin\Debug\net7.0\task1.runtimeconfig.json
+C:\Флешка\Флешка\Учеба Олег\VSC\Task1\task1\bin\Debug\net7.0\task1.dll
+C:\Флешка\Флешка\Учеба Олег\VSC\Task1\task1\bin\Debug\net7.0\task1.pdb
+C:\Флешка\Флешка\Учеба Олег\VSC\Task1\task1\obj\Debug\net7.0\task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Флешка\Флешка\Учеба Олег\VSC\Task1\task1\obj\Debug\net7.0\task1.AssemblyInfoInputs.cache
+C:\Флешка\Флешка\Учеба Олег\VSC\Task1\task1\obj\Debug\net7.0\task1.AssemblyInfo.cs
+C:\Флешка\Флешка\Учеба Олег\VSC\Task1\task1\obj\Debug\net7.0\task1.csproj.CoreCompileInputs.cache
+C:\Флешка\Флешка\Учеба Олег\VSC\Task1\task1\obj\Debug\net7.0\task1.dll
+C:\Флешка\Флешка\Учеба Олег\VSC\Task1\task1\obj\Debug\net7.0\refint\task1.dll
+C:\Флешка\Флешка\Учеба Олег\VSC\Task1\task1\obj\Debug\net7.0\task1.pdb
+C:\Флешка\Флешка\Учеба Олег\VSC\Task1\task1\obj\Debug\net7.0\task1.genruntimeconfig.cache
+C:\Флешка\Флешка\Учеба Олег\VSC\Task1\task1\obj\Debug\net7.0\ref\task1.dll
